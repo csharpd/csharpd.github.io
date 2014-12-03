@@ -98,5 +98,13 @@
       </div>
     </div>
     {% include javascripts.html %}
+    <script>
+			$('.hover_clip').mouseenter(function(){
+				$('#'+ $(this).data('clip'))[0].play()
+			});
+			$('.hover_clip').mouseleave(function(){
+				$('#'+ $(this).data('clip'))[0].pause()
+			});
+		</script>
   </body>
 </html>
