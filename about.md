@@ -8,11 +8,11 @@ I'm Chloe.
 
 Mountain Climber. Yogi. Maker.
 
-I'm nutty about creating products that are useful & beautiful.
+I'm nutty about creating products that are useful && beautiful.
 
 I also really like meeting passionate people.
 
-Find me on [Twitter](https://twitter.com/thisischloed) if you'd like to connect
+Find me on [Twitter](https://twitter.com/thisischloed)
 
 This is my technical notebook.
 
