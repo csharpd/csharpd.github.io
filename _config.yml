@@ -6,7 +6,7 @@ highlighter: pygments
 # title: "A technical notebook"
 description: > # this means to ignore newlines until "email:"
 
-email: chloedonegan@gmail.com
+email:
 #blog logo
 logo: "/assets/images/hello-world.png"
 # blog cover
