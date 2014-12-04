@@ -14,7 +14,6 @@ I've finished the prep material so I asked one of the MA teachers what else I co
 >’Work on your mindset. The biggest thing that people struggle with here is themselves. If you can treat it like a game and remain positive, you will do well”.
 
 The same day I came across a TED talk that also talks about how positivity enhances your ability to learn new things!
->"Your brain at positive performs significantly better than at negative, neutral or stressed… When you are positive your brain is flooded with dopamine and this turns on learning centres in your brain. You become more intelligent, more creative, you have more energy ,you are faster and more accurate"
 
 Apparently you can train yourself to become more optimistic which will cause get your brain to work more effectively. In his TED talk Shawn Achor suggests the following;
 
@@ -32,6 +31,10 @@ Apparently you can train yourself to become more optimistic which will cause get
 
 5. ###Perform a weekly random act of kindness
 *You can cause "ripples of positivity” to spread through the environment around you.*
+
+>"Your brain at positive performs significantly better than at negative, neutral or stressed… When you are positive your brain is flooded with dopamine and this turns on learning centres in your brain. You become more intelligent, more creative, you have more energy ,you are faster and more accurate"
+
+Count me in!
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/GXy__kBVq1M" frameborder="0" allowfullscreen></iframe>
 
