@@ -5,7 +5,7 @@ date:   2014-05-01 14:34:25
 categories: education
 image: /assets/article_images/2014-05-01-The-happiness-advantage/baloons2.jpg
 ---
-In Jan ‘13 [I made a promise](http://www.eyedea.org.uk/2012/12/28/the-year-ahead/). 2013 would be the year that I aquired some technical nous. Developers had been making me jealous. I wanted the magic ability to turn ideas into reality overnight. Over the course of that year I completed [Code First Girls](http://www.codefirstgirls.org.uk/), built a number of [websites](http://www.geekchic.me/) and launched an [iOS app](https://www.youtube.com/watch?v=52XkpGwWxLo).
+In Jan ‘13 [I made a promise](http://www.eyedea.org.uk/2012/12/28/the-year-ahead/). 2013 was going to be the year I acquire some technical nous. Developers had been making me jealous. I wanted the magic ability to turn ideas into reality overnight. Over the course of that year I completed [Code First Girls](http://www.codefirstgirls.org.uk/), built a number of [websites](http://www.geekchic.me/) and launched an [iOS app](https://www.youtube.com/watch?v=52XkpGwWxLo).
 
 ![](/assets/article_images/2014-05-01-The-happiness-advantage/geekgirlme.jpg)
 
@@ -27,7 +27,7 @@ In his TED talk Shawn Achor suggests the following;
 *Endorphins*
 
 4. ###Meditate
-*This practise teaches how to focus singularly on the task at hand (and reduces the likelihood  of being distracted by unhelpful thoughts).*
+*This practice teaches how to focus singularly on the task at hand (and reduces the likelihood  of being distracted by unhelpful thoughts).*
 
 5. ###Perform a weekly random act of kindness
 *You can cause "ripples of positivity” to spread through the environment around you.*
