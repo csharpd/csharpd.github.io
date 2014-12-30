@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm Chloe.
+I'm [Chloe](https://twitter.com/thisischloed).
 
-Mountain Climber. Yogi. Maker.
-
-I'm nutty about creating products that are useful && beautiful.
-
-I also really like meeting passionate people.
-
-Find me on [Twitter](https://twitter.com/thisischloed)
+I'm nuts about creating useful && beautiful products.
 
 This is my technical notebook.
 
