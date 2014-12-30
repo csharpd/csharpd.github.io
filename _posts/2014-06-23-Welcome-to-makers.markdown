@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Welcome to Makers Academy!"
-date:   2014-05-01 14:34:25
+date:   2014-06-23 14:34:25
 categories: education
-image: /assets/article_images/2014-06-23-Welcome-to-Makers/backpacker.jpg
+image: /assets/article_images/2014-06-23-Welcome-to-makers/backpacker.jpg
 ---
 It turns out that I’ve signed up for much more than a coding course. During the introduction today we were told to think of MA as habit building exercise:
 
