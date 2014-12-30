@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Front End Fun"
+date:   2014-08-10 14:34:25
+categories: education
+image: /assets/article_images/2014-07-10-HAML-SASS/bridge.jpeg
+---
+One of the challenges we were tasked with this week was to recreate the front end our twitter home page. I ended up doing this exercise twice. The first time I used CSS & HTML, the second time around I experimented with Sass and Haml.
+
+[Haml](http://haml.info/) stands for [HTML](http://en.wikipedia.org/wiki/HTML) Abstraction Markup Language. It “is a [lightweight markup language](http://en.wikipedia.org/wiki/Lightweight_markup_language) that is used to describe the [XHTML](http://en.wikipedia.org/wiki/XHTML) of any [web document](http://en.wikipedia.org/wiki/Web_document) without the use of traditional inline coding”. Esentially it speeds up the process of structuring content. HTML involves major repetition. Each tag has to be opened and closed. HAML avoids this by relying on indentation, not text, to determine where elements and blocks of code begin and end.
+
+![](/assets/article_images/2014-07-10-HAML-SASS/HS1.png)
+
+[Sass](http://sass-lang.com/guide) stands for Syntactically Awesome Style Sheets(!). It ‘ is a [scripting language](http://en.wikipedia.org/wiki/Scripting_language) that is interpreted into [Cascading Style Sheets](http://en.wikipedia.org/wiki/Cascading_Style_Sheets) (CSS)’. This tripped me up initially. You need to compile your app.scss into an app.css file as the browser can only interpret .css files.  Put the last 3 lines of the code below into your config.ru.  Remember to include gem 'sinatra', gem 'sass' & gem 'haml' in your Gemfile and require 'sinatra', require 'haml' in your server.rb.
+
+![](/assets/article_images/2014-07-10-HAML-SASS/HS2.png)
+
+Sass is cool because it allows you to do a number of things that aren’t possible with vanilla css, like ..
+
+###1. Nesting
+
+![](/assets/article_images/2014-07-10-HAML-SASS/HS3.png)
+
+CSS doesn’t have clear nested and visual hierarchy. Sass does. It lets you nest your CSS selectors in a way that follows the same visual hierarchy of your HTML so your css file becomes much more easy on the eye.
+
+###2. Variables
+
+Having variables means that you can store information that you want to reuse throughout your stylesheet like colors, font stacks, or any CSS value you think you’ll want to reuse. Trust me - this is awesome. For example, if you decide you hate your colour scheme, you can change a number of elements all in one go if you have used the same variable to style them.
+
+![](/assets/article_images/2014-07-10-HAML-SASS/HS4.png)
+
+###3. Mixins
+
+"A mixin lets you make groups of CSS declarations that you want to reuse throughout your site. You can even pass in values to make your mixin more flexible."
+This is an example of a mixins I used during ‘makin’ twitter’.
+
+![](/assets/article_images/2014-07-10-HAML-SASS/HS5.png)
+
+You can see my homepage [here](http://twitterhaml.herokuapp.com/)
+
+![](/assets/article_images/2014-07-10-HAML-SASS/HS6.png)
