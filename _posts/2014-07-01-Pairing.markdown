@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pairing"
+date:   2014-07-01 14:34:25
+categories: education
+image: /assets/article_images/2014-07-01-Pairing/pairchair.jpg
+---
+For someone used to a university lecture format Makers feels unconventional at first .  A large part of what you learn comes indirectly via your peers rather than straight from the Coaches. There's a 45 minute teaching session at 9.30am & 2.30pm where new concepts are introduced and any questions can be asked. Then the Coaches essentially leave us to it.  To be a good developer you need to learn how to solve problems independently hence why spoon feeding is a big no no. However we can collaborate with each other to get through the challenges and pairing is very much encouraged.
+
+I like quiet when I concentrate so I was initially very skeptical.  I thought pairing would mean that I wouldn’t have time to digest new concepts or the space to play and explore things in depth when I wanted to but I've come to see that the pros outweigh the cons.
+
+When it comes to coding, accuracy is paramount . Every single thing that you type matters. To a developer hello and Hello aren’t the same . Miss a single comma or put a single ’ rather than a double ” quote and more often than not your program explodes.
+Pairing is great because it means that you have a second pair of eyes checking for stupid (but fatal) syntax errors as you type.It also accelerates your learning as you can share methods and tricks with each other.
