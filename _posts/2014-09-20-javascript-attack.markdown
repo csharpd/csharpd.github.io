@@ -8,7 +8,7 @@ image: /assets/article_images/2014-09-20-javascript-attack/lake.jpg
 To get to grips with Javascript I've been busy with some  projects...
 
 ###[MultiFizz](https://github.com/csharpd/mutli_fizz)
-I spent a morning last week playing with IO, a simple [prototypical language](http://stackoverflow.com/questions/186244/what-does-it-mean-that-javascript-is-a-prototype-based-language). Javascript is also a prototypical language and someone told me that looking at IO would be a nice intro. Then I wrote (tested) Fizzbuzz in Ruby, IO & Javascript.
+I spent a morning last week playing with IO, a simple [prototypical language](http://stackoverflow.com/questions/186244/what-does-it-mean-that-javascript-is-a-prototype-based-language). Javascript is also a prototypical language and I have been told that looking at IO would be a nice intro. After that I wrote Fizzbuzz (tested) in Ruby, IO & Javascript.
 
 ###[RockPaperScissors](https://github.com/csharpd/rps-java)
 I built a basic rock paper scissors game in javascript that anyone can play via the browser. I tested the code with jasmine. This was a nice exercise. It helped me to see how the object orientated javascript that I created for the back end could then be interacted with in the browser using Jquery. I compiled my SASS & HAML using Grunt.
