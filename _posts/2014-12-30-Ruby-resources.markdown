@@ -2,7 +2,6 @@
 layout: post
 title:  "How I learnt to code*"
 date:   2014-12-30 14:34:25
-categories: education
 image: /assets/article_images/2014-12-30-ruby-resources/rubies.jpg
 comments: true
 ---
