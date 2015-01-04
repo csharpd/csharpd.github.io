@@ -2,7 +2,8 @@
 layout: post
 title:  "How I learnt to code*"
 date:   2014-12-30 14:34:25
-image: /assets/article_images/2014-12-30-ruby-resources/rubies.jpg
+categories: education
+image: /education/assets/article_images/2014-12-30-ruby-resources/rubies.jpg
 comments: true
 ---
 Six months ago I decided to teach myself Ruby.
@@ -30,7 +31,7 @@ I believe that the best way to get around this is to do an in-person course to a
 
 [Code First Girls](http://www.codefirstgirls.org.uk/)  introduced me to HTML, CSS, Sinatra & Ruby. This is an amazing (free) part time course for women at or just out of university. If you can get a spot jump at the chance - I can't recommend it enough.
 
-![](/assets/article_images/2014-12-30-ruby-resources/cfg.jpg)
+![](/education/assets/article_images/2014-12-30-ruby-resources/cfg.jpg)
 
 To prepare for Makers Academy I did :
 
