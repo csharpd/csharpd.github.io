@@ -39,6 +39,6 @@ To prepare for Makers Academy I did :
 
 Whilst I was at Makers I found '[The Well Grounded Rubyist](http://www.amazon.co.uk/The-Well-Grounded-Rubyist-David-Black/dp/1933988657)' particularly helpful for getting to grips with the ins and outs of Ruby.
 
-So there you go. That's how I got going. Now go forth & code, then [tweet me](https://twitter.com/chloe_does) what you make!
+So there you go. That's how I got going. Now go forth & make things, then [tweet me](https://twitter.com/chloe_does) what you build!
 
 *The title of this post is a misnomer. With developing the learning never really stops.
