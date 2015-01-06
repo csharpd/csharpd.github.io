@@ -5,11 +5,7 @@ date:   2015-01-07 14:34:25
 categories: education
 image: /assets/article_images/2015-01-07-How-i-learnt-to-code/rubies.jpg
 ---
-Six months ago I decided to teach myself Ruby.
-
-Now I work as a developer :)
-
-I often get asked about which resources I found helpful when I was starting out so here is a post on that.
+I often get asked about which resources I found helpful when I was first learning to code so here is a post on that.
 
 If your aim is to quickly find out what 'coding' is, spend an hour with [Dash](https://dash.generalassemb.ly/). This is a super easy (& fun) way to test the waters.
 Then try and make your own site. This was my [first attempt](http://www.geekchic.me/).
