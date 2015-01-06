@@ -1,16 +1,15 @@
 ---
 layout: post
 title:  "How I learnt to code*"
-date:   2014-12-30 14:34:25
+date:   2015-01-07 14:34:25
 categories: education
-image: /education/assets/article_images/2014-12-30-ruby-resources/rubies.jpg
-comments: true
+image: /assets/article_images/2015-01-07-How-i-learnt-to-code/rubies.jpg
 ---
 Six months ago I decided to teach myself Ruby.
 
 Now I work as a developer :)
 
-These are the resources that I found helpful when I was starting out:
+I often get asked about which resources I found helpful when I was starting out so here is a post on that.
 
 If your aim is to quickly find out what 'coding' is, spend an hour with [Dash](https://dash.generalassemb.ly/). This is a super easy (& fun) way to test the waters.
 Then try and make your own site. This was my [first attempt](http://www.geekchic.me/).
@@ -30,32 +29,20 @@ Coding is a perishible skill and learning in a piecemeal, unsystematic way after
 I believe that the best way to get around this is to do an in-person course to at least get your head around the basics. Then move on to developing projects collaboratively with people of a similar level.
 
 [Code First Girls](http://www.codefirstgirls.org.uk/)  introduced me to HTML, CSS, Sinatra & Ruby. This is an amazing (free) part time course for women at or just out of university. If you can get a spot jump at the chance - I can't recommend it enough.
-
-![](/education/assets/article_images/2014-12-30-ruby-resources/cfg.jpg)
+<br>
+<br>
+![](/assets/article_images/2015-01-07-How-i-learnt-to-code/cfg.jpg)
 
 To prepare for Makers Academy I did :
 
-+ this [Unix tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
++ this [Unix tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/),
 
-+ this [Command Line Crash Course](http://cli.learncodethehardway.org/)
++ this [Command Line Crash Course](http://cli.learncodethehardway.org/),
 
-+ this [Intro to Git](http://gitimmersion.com/lab_01.html)
++ & this [Intro to Git](http://gitimmersion.com/lab_01.html).
 
-+ & worked on my [mindset](http://csharpd.github.io/education/2014/05/01/The-happiness-advantage.html).
+Whilst I was at Makers I found '[The Well Grounded Rubyist](http://www.amazon.co.uk/The-Well-Grounded-Rubyist-David-Black/dp/1933988657)' particularly helpful for getting to grips with the ins and outs of Ruby.
 
-Hope that helps. [Tweet me](https://twitter.com/chloe_does) what you make!
+So there you go. That's how I got going. Now go forth & code, then [tweet me](https://twitter.com/chloe_does) what you make!
 
 *The title of this post is a misnomer. With developing the learning never really stops.
-
-
-
-
-
-
-
-
-
-
-
-
-
