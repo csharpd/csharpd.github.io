@@ -5,7 +5,7 @@ date:   2014-06-23 14:34:25
 categories: education
 image: /assets/article_images/2014-06-23-Welcome-to-makers/backpacker.jpg
 ---
-It turns out that I’ve signed up for much more than a coding course. During the introduction today we were told to think of MA as habit building exercise:
+It turns out that I’ve signed up for much more than a coding course. During the introduction today we were told to think of [Makers Academy](http://www.makersacademy.com/) as habit building exercise:
 
 >"Twelve weeks is both a very long time and a very short time. If you go on to have a career as a software developer then three months is nothing.
 This isn’t even the beginning.

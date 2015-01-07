@@ -29,7 +29,7 @@ I believe that the best way to get around this is to do an in-person course to a
 <br>
 ![](/assets/article_images/2015-01-07-How-i-learnt-to-code/cfg.jpg)
 
-To prepare for Makers Academy I did :
+To prepare for [Makers Academy](http://www.makersacademy.com/) I did :
 
 + this [Unix tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/),
 
@@ -37,7 +37,7 @@ To prepare for Makers Academy I did :
 
 + & this [Intro to Git](http://gitimmersion.com/lab_01.html).
 
-Whilst I was at Makers I found '[The Well Grounded Rubyist](http://www.amazon.co.uk/The-Well-Grounded-Rubyist-David-Black/dp/1933988657)' particularly helpful for getting to grips with the ins and outs of Ruby.
+Whilst I was at [Makers](http://www.makersacademy.com/) I found '[The Well Grounded Rubyist](http://www.amazon.co.uk/The-Well-Grounded-Rubyist-David-Black/dp/1933988657)' particularly helpful for getting to grips with the ins and outs of Ruby.
 
 So there you go. That's how I got going. Now go forth & make things, then [tweet me](https://twitter.com/chloe_does) what you build!
 
