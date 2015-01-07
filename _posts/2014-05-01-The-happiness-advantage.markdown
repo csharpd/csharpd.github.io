@@ -9,7 +9,7 @@ In Jan ‘13 [I made a promise](http://www.eyedea.org.uk/2012/12/28/the-year-ahe
 
 ![](/assets/article_images/2014-05-01-The-happiness-advantage/geekgirlme.jpg)
 
-Now I've I’ve decided to go the whole hog and devote 84 days to learning to code.  Next month I'm starting at Makers Academy, an intensive Ruby web development bootcamp.
+Now I've I’ve decided to go the whole hog and devote 84 days to learning to code.  Next month I'm starting at [Makers Academy](http://www.makersacademy.com/), an intensive Ruby web development bootcamp.
 I've finished the prep material so I asked one of the MA teachers what else I could do. His answer surprised me:
 >’Work on your mindset. The biggest thing that people struggle with here is themselves. If you can treat it like a game and remain positive, you will do well”.
 
