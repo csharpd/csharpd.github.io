@@ -16,7 +16,11 @@ name: 'Chloë Donegan'
 author: 'Chloë Donegan'
 author_image: "/assets/images/IMG_2852.jpeg"
 
-paginate:	5
+paginate:	6
+
+owner:
+  name: Chloe Donegan
+  disqus-shortname: csharpd
 
 url: "http://csharpd.github.io" # the base hostname & protocol for your site
 baseurl: ""

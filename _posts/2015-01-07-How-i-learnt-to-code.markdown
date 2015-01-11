@@ -4,6 +4,7 @@ title:  "How I learnt to code*"
 date:   2015-01-07 14:34:25
 categories: education
 image: /assets/article_images/2015-01-07-How-i-learnt-to-code/rubies.jpg
+comments: true
 ---
 I often get asked about which resources I found helpful when I was first learning to code so here is a post on that.
 
