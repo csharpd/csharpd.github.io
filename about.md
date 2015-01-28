@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm [Chloe](https://twitter.com/thisischloed).
+I'm [Chloe](https://twitter.com/chloe_does).
 
 I'm nuts about creating useful && beautiful products.
 
