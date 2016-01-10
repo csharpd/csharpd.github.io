@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Noteworthy: #Week53"
+title:  "2015: Week 53"
 date:   2015-12-28 15:20:00
 categories: noteworthy
 image:

@@ -1,0 +1,107 @@
+---
+layout: post
+title:  "2016: Week 1"
+date:   2016-01-19 15:20:00
+categories: noteworthy
+image:
+---
+
+## Lyst
+This week I re-learnt some eternal truths:
+<br>
+1. Keep It Simple Stupid 
+<br>
+2. Only Ever Test One Thing At A Time.
+
+I'm really looking forward to seeing the results we get and building on this idea. 
+I was mainly working on a ticket to experiment with visually merchandizing product feeds. 
+This involved a significant amount of time hammering out the details of what the initial experiment should actually look like, working with/in Python & SQL and some grappling with caching.
+
+
+--------------------
+## Book of The Week: Show Your Work
+
+![](/assets/article_images/2016-01-01-show-your-work/showyourwork.jpg)
+
+> The problem with hoarding is that you end up living of your reserves. Eventually you'll become stale. If you give away everything you have you are left with nothing. This forces you to look, to be aware, to replenish ... Somehow the more you give away, the more comes back to you. 
+
+<cite>Paul Arden </cite>
+
+<br>
+
+> The impulse to keep to yourself what you have learned is not only shameful, it is destructive. Anything you do not give freely and abundantly becomes lost to you. You open your safe and find ashes. 
+
+<cite>Annie Dilard</cite>
+
+[The **Other Notes** I took](http://csharpd.github.io/book/2016/01/01/show-your-work.html)
+
+###### #art #creative #famous #process #give #share #reveal #austin #kleon
+
+-----------------
+
+## Articles
++ Good reads about conducting your own annual review [Mathias Jakobsen](http://www.thnkclrly.com/annualreport/) & [Chris Guillbeau](http://chrisguillebeau.com/how-to-conduct-your-own-annual-review/
+http://www.thnkclrly.com/annualreport/)
+
+> "The important dreams come true with patience measured in decades" <cite>Mathias Jakobsen</cite>
+
++ [The next big thing in design is fewer choices](http://www.fastcodesign.com/3045039/the-next-big-thing-in-design-fewer-choices) #anticipatory #design 
+
+>"It’s not hard to see how today’s services can easily evolve for an anticipatory future. By connecting to my daily schedule and assessing my location, Uber could automatically schedule a car to pick me up from work when I’m done with a meeting, rather than the other way around."
+
+hmmm...
+
+> "Perfecting this system, however—ridding it of wild inaccuracies or annoyances—is no trivial task"
+
+
++ [David Mahoney Commencement Speech at Rutgers University](http://casnocha.com/2008/04/the-centenarian.html) #advice #diversify #TheCentenarianStrategy
+
+<br>
+If it's likely that you will live to see 100, how should you be looking at your life?
+
+>"**Diversify your career** from the very beginning. Stop thinking of jobs in series, one after the other; instead, think of careers in parallel. That means planning your vacation along with your avocation, and keep them as separate as possible. 
+If you want to go into business, plan an avocation of music or art; if you are inclined toward the law or the media, diversify into education or landscaping. If you want to be a poet, think about politics on the side, and study it seriously."
+
+<br>
+
+>"The centenarian thinks about success differently, with a longer view. He or she measures success in getting to personal satisfaction, which does not always mean getting to the top of the heap."
+
++ [Meet The Tastemakers Who Are Redefining Food And Drink In 2016](http://www.forbes.com/sites/maggiemcgrath/2016/01/04/30-under-30-meet-the-tastemakers-who-are-redefining-food-and-drink/) #food
++ [On Building a Million Dollar Wellness Business in 12 Months](http://www.welltodolondon.com/peta-shulman-on-building-a-million-dollar-business-goodnessme-box-in-12-months/) #healthyfood
+
+------------------------
+
+## Illustrator: [Hallie Bateman](http://halliebateman.com/)
+Some favourites...
+
+![](/assets/article_images/2016-01-10-16week1/whentocloseyoureyes.png)
+<br>
+[The Art of Posture](http://halliebateman.com/project/the-art-of-posture/)
+![](/assets/article_images/2016-01-10-16week1/posture.png)
+
+[Bug Poems](http://www.theawl.com/2015/08/bug-poems)
+![](/assets/article_images/2016-01-10-16week1/bugpoem.png)
+
+[The Excavation of your childhood Bedroom](http://halliebateman.com/project/the-excavation-of-your-childhood-bedroom/)
+![](/assets/article_images/2016-01-10-16week1/bedroom.png)
+
+[Cat Cloud](http://halliebateman.com/project/cat-cloud/)
+![](/assets/article_images/2016-01-10-16week1/catcloud.png)
+
+-----------------------------
+
+## Be Drunk
+*Charles Baudelaire, 1821 - 1867*
+
+>You have to be always drunk. That’s all there is to it—it’s the only way. So as not to feel the horrible burden of time that breaks your back and bends you to the earth, you have to be continually drunk.
+
+<br>
+
+>But on what? Wine, poetry or virtue, as you wish. But be drunk.
+
+<br>
+
+>And if sometimes, on the steps of a palace or the green grass of a ditch, in the mournful solitude of your room, you wake again, drunkenness already diminishing or gone, ask the wind, the wave, the star, the bird, the clock, everything that is flying, everything that is groaning, everything that is rolling, everything that is singing, everything that is speaking. . .ask what time it is and wind, wave, star, bird, clock will answer you: “It is time to be drunk! So as not to be the martyred slaves of time, be drunk, be continually drunk! On wine, on poetry or on virtue as you wish.”
+
+---------------------
+
