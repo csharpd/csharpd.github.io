@@ -1,22 +1,15 @@
 ---
 layout: post
 title:  "2016: Week 1"
-date:   2016-01-19 15:20:00
+date:   2016-01-10 15:20:00
 categories: noteworthy
 image:
 ---
 
 ## Lyst
-This week I re-learnt some eternal truths:
-<br>
-1. Keep It Simple Stupid 
-<br>
-2. Only Ever Test One Thing At A Time.
-
-I'm really looking forward to seeing the results we get and building on this idea. 
-I was mainly working on a ticket to experiment with visually merchandizing product feeds. 
+This week I was mainly working on a ticket to experiment with visually merchandizing product feeds. 
 This involved a significant amount of time hammering out the details of what the initial experiment should actually look like, working with/in Python & SQL and some grappling with caching.
-
+I'm really looking forward to seeing the results we get and building on this idea. 
 
 --------------------
 ## Book of The Week: Show Your Work
