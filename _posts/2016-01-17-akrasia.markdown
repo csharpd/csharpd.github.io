@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "2016: Week 2"
+date:   2016-01-17 15:20:00
+categories: noteworthy
+image:
+---
+
+## Lyst
+This week I wrapped up the merchandizing feeds ticket. I think this work really improves the user experience. Let's see if it impacts conversion.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/nFi7RxaKIs8" frameborder="0" allowfullscreen></iframe>
+
+I wrote some tests for a Javascript mixin that applies analytics to links through out the code base.
+
+I've now been tasked with building a flexible carousel to replace the various permutations that we have across the site so more javascript ahead. 
+I am finding this somewhat daunting. There are a lot of edge cases and ugly limitations that arise depending on the route you choose. 
+It needs to be paginated for x number of items and must work on all screen sizes. 
+If i've learnt anything it's to break the problem down and start small with a more manageable spec so that's what I intend to do next week.
+
+
+--------------------
+## Book of The Week: In Praise of Shadows
+<br>
+![](/assets/article_images/2016-01-17-akrasia/inpraiseofshadows.jpg)
+<br>
+"In praise of shadows is an essay on aesthetics by an eminent Japanese novelist; but to sum it up as such is as likely to mislead as to enlighten, for in this case neither novelist or essay nor aesthetic fits very neatly within the usual boundaries of these terms".
+<br>
+<br>
+"The Japanese toilet is truly a place of spiritual repose... No words can describe the sensation as one sits in the dim light, basking in the faint glow reflected from the shoji, lost in meditation or gazing out into the garden.
+As i have said there are certain prerequisites: a degree of dimness, absolute cleanliness and quiet so complete that one can hear the hum of a mosquito. I love to listen from such a toilet to the sound of softly falling rain... "
+<br>
+
+
+###### #japan #essay #aesthetics #shadow
+
+-----------------
+
+## Articles
+
+# #cool #tech
++ http://tympanus.net/Development/SeatPreview/ 
+
+# #CV #Instagram
++ https://www.instagram.com/ami.the.next.thenextweb.intern/ 
+
+# #marketing
++ https://medium.com/keep-learning-keep-growing/how-i-went-from-underemployed-waitress-to-the-top-1-of-millennials-in-3-months-4680dc1d7891#.6bei71qqs
+
++ # #design
+http://www.fastcodesign.com/3043740/4-reasons-why-design-is-taking-over-silicon-valley
+It's interesting to see a shift in attitude towards design; as the article explains, startups are now baking this element in at the beginning rather than asking the designer to perform cosmetic surgery at the end of the project.
+Designers are no longer regarded just as people who make things pretty, instead they are necessary if you product is to be relevant and successful.
+
+# #onboarding
++ http://www.useronboard.com/how-peach-onboards-new-users/?slide=28
+
+# #marketing
++ http://thisisforthecrazyones.com/hello-world/
+
+# #procrastination
++ http://jamesclear.com/akrasia
+
+> **Commitment devices** can help you design your future actions. Find ways to automate your behavior beforehand rather than relying on willpower in the moment. Be the architect of your future actions, not the victim of them.
+<br>
+>**Reduce the friction of starting** So why do we still procrastinate? Because it’s not being in the work that is hard, it’s starting the work. The friction that prevents us from taking action is usually centered around starting the behaviour. Once you begin, it’s often less painful to do the work. This is why it is often more important to build the habit of getting started when you’re beginning a new behavior than it is to worry about whether or not you are successful at the new habit.
+You have to constantly reduce the size of your habits. Put all of your effort and energy into building a ritual and make it as easy as possible to get started. Don’t worry about the results until you’ve mastered the art of showing up.
+
+----------------
+
+## Quotes
+
+>The way in which a man accepts his fate and all the suffering it entails, the way in which he takes up his cross, gives him ample opportunity — even under the most difficult circumstances — to add a deeper meaning to his life. It may remain brave, dignified and unselfish. Or in the bitter fight for self-preservation he may forget his human dignity and become no more than an animal. Here lies the chance for a man either to make use of or to forgo the opportunities of attaining the moral values that a difficult situation may afford him. And this decides whether he is worthy of his sufferings or not. … Such men are not only in concentration camps. Everywhere man is confronted with fate, with the chance of achieving something through his own suffering.
+
+[Victor Frankl](https://www.brainpickings.org/2013/03/26/viktor-frankl-mans-search-for-meaning/)
+
+>In the early days, I was solving one problem after another after another; a fair number were successful and there were a few failures. I went home one Friday after finishing a problem, and curiously enough I wasn’t happy; I was depressed. I could see life being a long sequence of one problem after another after another. After quite a while of thinking I decided, “No, I should be in the mass production of a variable product. I should be concerned with all of next year’s problems, not just the one in front of my face.” By changing the question I still got the same kind of results or better, but I changed things and did important work. I attacked the major problem—How do I conquer machines and do all of next year’s problems when I don’t know what they are going to be? How do I prepare for it? How do I do this one so I’ll be on top of it? How do I obey Newton’s rule? He said, “If I have seen further than others, it is because I’ve stood on the shoulders of giants.” These days we stand on each other’s feet!
+
+>You should do your job in such a fashion that others can build on top of it, so they will indeed say, “Yes, I’ve stood on so and so’s shoulders and I saw further.” The essence of science is cumulative. By changing a problem slightly you can often do great work rather than merely good work. Instead of attacking isolated problems, I made the resolution that I would never again solve an isolated problem except as characteristic of a class.
+
+ [Richard Hamming, You and Your Research (1986)](http://worrydream.com/MagicInk/)
+
+>As a cure for worrying, work is better than whiskey.
+
+Ralph Waldo Emerson
+
